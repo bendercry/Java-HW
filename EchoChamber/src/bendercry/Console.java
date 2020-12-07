@@ -3,9 +3,9 @@ package bendercry;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Read {
+class Console {
     private ArrayList<String> text;
-    public Read(){
+    public Console(){
         this.text = new ArrayList<String>();
     }
     public void input() {
